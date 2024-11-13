@@ -1,6 +1,11 @@
 # network-block
 Enables network blocking for specific classrooms:
-1. Each classroom has its own folder.
-2. Within a folder, two kind of files exists with self-explanatory names: `apply-block-<day>-<start>-<end>` or  `dont-apply-block-<day>-<start>-<end>`.
-3. Change the filenames in order to enable or disable blocks. 
-4. Blocks are predefined, so no new blocks will be created by adding new folders nor files; if needed, please, request it to the repo maintainer.
+1. Each block has its own file.
+2. Blocks applies for 2h only when the file exists (naming as `classroom-weekday-start`). 
+3. This is the list of valid blocks:
+    - ada-mon-19
+    - ada-tue-19
+    - ada-wed-16
+    - torvalds-wed-19
+    - torvalds-thu-19
+    - torvalds-fri-16
