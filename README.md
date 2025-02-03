@@ -9,3 +9,4 @@ Enables network blocking for specific classrooms:
     - torvalds-wed-19
     - torvalds-thu-19
     - torvalds-fri-16
+4. In order to disable a block, **DO NOT DELETE THE FILE**, just append `-disabled` to the file name.
