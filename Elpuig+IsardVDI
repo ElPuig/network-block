@@ -1,0 +1,5 @@
+! Bloqueja tots els dominis
+/.*/$important
+! Desbloqueja el nostre domini
+@@||elpuig.xeill.net^$important
+@@||isardvdi.com^$important
