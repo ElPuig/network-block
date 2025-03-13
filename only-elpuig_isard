@@ -5,6 +5,9 @@
 @@||isardvdi.com^$important
 @@||gencat.cat^$important
 @@||microsoftonline.com^$important
+@@||microsoftazuread-sso.com^$important
+@@||data.microsoft.com^$important
 @@||msftauth.net^$important
-@@||live.com^$important
-
+@@||msauth.net^$important
+@@||msauthimages.net^$important
+@@||login.live.com^$important
