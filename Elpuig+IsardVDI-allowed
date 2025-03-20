@@ -1,7 +1,0 @@
-! Bloqueja tots els dominis
-/.*/$important
-! Desbloqueja el nostre domini
-@@||elpuig.xeill.net^$important
-@@||isardvdi.com^$importanthttps://github.com/ElPuig/network-block/blob/main/Elpuig%2BIsardVDI-allowed
-@@||gencat.cat^$important
-@@||microsoftonline.com^$important
