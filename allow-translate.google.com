@@ -3,3 +3,4 @@
 @@||fonts.googleapis.com^$important
 @@||ssl.gstatic.com^$important
 @@||fonts.gstatic.com^$important
+@@||consent.google.com^$important
