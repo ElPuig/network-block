@@ -3,3 +3,5 @@
 @@||github.com^$important
 @@||nodejs.org^$important
 @@||iojs.org^$important
+@@||open-vsx.org^$important
+@@||registry.npmjs.org^$important
