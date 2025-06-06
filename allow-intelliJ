@@ -1,5 +1,7 @@
 @@||resources.jetbrains.com^$important
+@@||repo.maven.apache.org^$important
 @@||repo1.maven.org^$important
 @@||repository.jboss.org^$important
 @@||repository.jfrog.org^$important
 @@||cdn.jsdelivr.net^$important
+@@||cdn.jsdelivr.net.cdn.cloudflare.net^$important
