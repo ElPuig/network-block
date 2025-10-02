@@ -1,0 +1,87 @@
+; OpenAI/ChatGPT 
+||openai.com^
+||*.openai.com^
+||chatgpt.com^
+||chat.com^
+||oaistatic.com^
+||*.oaistatic.com^
+
+; DeepSeek
+||deepseek.ai^
+||deepseek.com^
+||*.deepseek.*^
+
+; Qwen
+||qwen.ai^
+||qwen.com^
+||*.qwen.*^
+
+; Mistral 
+||mistral.ai^
+||*.mistral.ai^
+||*.models.mistral.ai^
+
+; Microsoft Phi 
+||phi.microsoft.com^
+||phi.azure.com^
+||azure.microsoft.com/phimodels^
+||*.phi.*.microsoft.com^
+||*.phi.azure.com^
+
+; Google Gemma/Gemini
+||gemini.google.com^
+||geminiapi.google.com^
+||gemma.google.com^
+||gemmaapi.google.com^
+||*.gemini.*.google.com^
+||*.gemma.*.google.com^
+
+; Amazon Nova
+||nova.amazon.com^
+||novaapi.amazon.com^
+||*.nova.amazonaws.com^
+||amazon-nova.com^
+||*.amazon-nova.com^
+
+; Anthropic Claude.
+||anthropic.com^
+||*.anthropic.com^
+||claude.ai^
+||*.claude.ai^
+||*.claude.anthropic.com^
+
+; Bloquejos genèrics agressius
+||*.gpt.*^
+||*.ai.*^
+||*.ai^
+||ai.com^
+||*.ai.com^
+
+; IAs locals
+
+; Meta Llama 
+||llama.meta.com^
+||llama.meta.ai^
+||*.llama.meta.com^
+||llama.ai^
+||*.llama.ai^
+||llama2.meta.com^
+
+; Ollama 
+||ollama.com^
+||*.ollama.com^
+||*.ollama.ai^
+
+; LM Studio 
+||lmstudio.com^
+||lm-studio.com^
+||lmstudio.io^
+||*.lmstudio.*^
+
+; Hugging Face
+||huggingface.co^
+||*.huggingface.co^
+||*.hf.co^                  
+||cdn.huggingface.co^
+||media.huggingface.co^     
+||*.hf.co^     
